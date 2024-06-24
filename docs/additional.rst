@@ -7,3 +7,4 @@ This page links to docs not part of the main flow of the guide. You may recogniz
    
    original_audio
    harleys-guide
+   banned_bands

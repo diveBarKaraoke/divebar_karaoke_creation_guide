@@ -6,6 +6,8 @@ Why Google Drive?
 
 While any file upload service could be used for sharing files with KJs, most creators currently use Google Drive. There is also a main diveBar Drive link `pinned in #irl-hosting <https://discord.com/channels/918644502128885760/1009524669503778937/1010944162952122408>`_ which links to individual creators' Drives. It's easier to do something like that when we're all using the same system.
 
+Once you have a Google Drive created for your tracks, please link it in the Discord, so we can link it from the main drive.
+
 File Naming
 -----------
 

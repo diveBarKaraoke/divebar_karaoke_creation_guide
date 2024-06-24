@@ -3,7 +3,7 @@ Feedback/Contributions
 
 There's two places you can request an update to the docs.
 
-One is to create an Issue or Pull Request on GitHub, where the source of the project is managed. <INSERT LINK>
+One is to create an Issue or Pull Request `on GitHub <https://github.com/diveBarKaraoke/divebar_karaoke_creation_guide>`_, where the source of the project is managed.
 
 The other is to use this `Google Form <https://forms.gle/EUfW2Q2P2pEVrt9r6>`_ (no login required).
 
