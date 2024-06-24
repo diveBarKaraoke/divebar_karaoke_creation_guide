@@ -1,0 +1,6 @@
+Doblon
+======
+
+Doblon makes multiple pieces of karaoke creation software, with overlapping functionality. `CD+G Creator <https://www.powerkaraoke.com/src/prod_karaokecdgcreator.php>`_ only produces CDG karaoke files, and `Karaoke Video Creator <https://www.powerkaraoke.com/src/prod-karaoke-video-creator.php>`_ only produces video. There's also a `CD+G Creator Pro <https://www.powerkaraoke.com/src/prod_karaokecdgcreatorpro.php>`_ that also only produces CDG, but removes some of the limitations in the basic version. Karaoke Video Creator and CD+G Creator Pro can import and export lyric timing, which can presumably then be used in both pieces of software if both formats are desired. They also have a feature to import CDG, which attempts to OCR it back to lyrics and timing, but they are limited in the types of karaoke scrolls that will work with it.
+
+This software offers numerous options to configure the overall style of the karaoke track, and offers built-in support for split-screen duets, but does not have the per-line layout flexibility that something like KBS does, so heavily customized karaoke is not possible. This is also the most expensive option, especially if both the pro version of CD+G Creator Pro and Karaoke Video Creator are needed.

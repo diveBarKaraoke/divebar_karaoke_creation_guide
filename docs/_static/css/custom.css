@@ -1,0 +1,7 @@
+.extraspace {
+    margin: 0.1em 0.1em 0.5em 0.1em;
+}
+td, th {
+    white-space: normal !important;
+}
+
