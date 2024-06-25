@@ -10,7 +10,10 @@ YouTube titles are pretty flexible, but there are a few guidelines we recommend:
 
 2. Put "karaoke" somewhere in the title. We don't want to trick people into watching our videos, so we need to make it clear what they are. Something like "instrumental, with lyrics" is also fine, but "karaoke" is easier.
 
-3. Thumbnails - Some people like to use a title card as a thumbnail, while others show a preview of the scroll to indicate it's a real karaoke track. There's no consensus on this. But whatever you do with thumbnails, make sure they have something related to the content and are easy to read.
+Thumbnails
+----------
+
+Some people like to use a title card as a thumbnail, while others show a preview of the scroll to indicate it's a real karaoke track. There's no consensus on this. But whatever you do with thumbnails, make sure they have something related to the content and are easy to read.
 
 Descriptions, Tags, Etc.
 ------------------------
