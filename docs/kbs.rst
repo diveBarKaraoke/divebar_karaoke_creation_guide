@@ -50,3 +50,9 @@ Get Started
 -----------
 
 Karaoke Builder Studio is the software of choice in our :doc:`Windows <qs-windows>` and :doc:`Linux <qs-linux>` Quick Start guides.
+
+Additional Resources
+--------------------
+
+* :doc:`loading_bars`
+* :doc:`kbs_additional`

@@ -38,8 +38,8 @@ Video Output
 Follow-up steps
 ---------------
 
-1. Learn more about The Tüül with some :doc:`background and video tutorials <the_tuul>`
-2. View a :doc:`comparison of karaoke software <graphics_software>` to see if any would work better for you.
-3. Use :ref:`other_graphics_software:Aegisub` or a video editor to make further edits or add background video
-4. Set up a :doc:`Google Drive <google-drive>` for KJs to use for offline shows.
-5. :ref:`Apply for a channel <joining:Requesting a Channel>` on the Discord (once you get to 10 videos).
+* Learn more about The Tüül with some :doc:`background and video tutorials <the_tuul>`
+* View a :doc:`comparison of karaoke software <graphics_software>` to see if any would work better for you.
+* Use :ref:`other_graphics_software:Aegisub` or a video editor to make further edits or add background video
+* Set up a :doc:`Google Drive <google-drive>` for KJs to use for offline shows.
+* :ref:`Apply for a channel <joining:Requesting a Channel>` on the Discord (once you get to 10 videos).

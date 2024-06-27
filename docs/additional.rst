@@ -10,3 +10,4 @@ This page links to docs not part of the main flow of the guide. You may recogniz
    harleys-guide
    banned_bands
    loading_bars
+   kbs_additional

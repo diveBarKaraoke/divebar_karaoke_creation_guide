@@ -11,6 +11,8 @@ Google Colab
 
 This is a catch-all referring to all the Colabs that have been floating around. `Google Colab <https://colab.google/>`_ is a tool to run code on Google's servers. With typical usage levels, this will probably be free for you. Most vocal isolation Colabs support a particular model with not a lot of settings to adjust unless you delve into the code a bit. If you want to know the current Colabs people are using, ask in `#vocal-isolation <https://discord.com/channels/918644502128885760/918681357562036246>`_. It would be nearly impossible to keep this document up to date with them.
 
+To get an idea of the kind of process involved to run a separation model with Colab, see `this old tutorial <https://youtu.be/w6eIf8y6SY4>`_.
+
 MVSEP
 -----
 

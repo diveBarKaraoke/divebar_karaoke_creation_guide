@@ -46,6 +46,9 @@ As of the time of writing this (June 2024), the CDG and Video export features in
 
    To access in the future, you can either run the ``activate`` and ``kbp2video`` again, or just use the bin/kbp2video script it created directly.
 
+   .. image:: images/kbp2video-linux.png
+      :alt: Screenshot of kbp2video UI
+
 3. Drag and drop your .kbp file into the UI.
 
 4. Hit the Convert to Video button.
@@ -57,11 +60,11 @@ Now you should have a kbp2video folder alongside the project and a nice mp4 vide
 Follow-up steps
 ---------------
 
-1. Learn more about Karaoke Builder Studio with some :doc:`background and video tutorials <kbs>`.
-2. View a :doc:`comparison of karaoke software <graphics_software>` to see if any would work better for you.
-3. Read about :doc:`uvr` to help decide if you'd rather run your vocal isolation locally rather than with x-minus. Note that it can be a little tough to get running on Linux since they don't provide an installer or package for it.
-4. `Buy/Register Karaoke Builder Studio <https://www.karaokebuilder.com/buy.php>`_
-5. Purchase a subscription for `x-minus <https://x-minus.pro/ai>`_ (click the link to try Premium)
-6. Install Audacity to edit your audio files if the stems directly from x-minus aren't quite good enough (it should be in your distro's repo).
-7. Set up a :doc:`Google Drive <google-drive>` for KJs to use for offline shows.
-8. :ref:`Apply for a channel <joining:Requesting a Channel>` on the Discord (once you get to 10 videos).
+* Learn more about Karaoke Builder Studio with some :doc:`background and video tutorials <kbs>`.
+* View a :doc:`comparison of karaoke software <graphics_software>` to see if any would work better for you.
+* Read about :doc:`uvr` to help decide if you'd rather run your vocal isolation locally rather than with x-minus. Note that it can be a little tough to get running on Linux since they don't provide an installer or package for it.
+* `Buy/Register Karaoke Builder Studio <https://www.karaokebuilder.com/buy.php>`_
+* Purchase a subscription for `x-minus <https://x-minus.pro/ai>`_ (click the link to try Premium)
+* Install Audacity to edit your audio files if the stems directly from x-minus aren't quite good enough (it should be in your distro's repo).
+* Set up a :doc:`Google Drive <google-drive>` for KJs to use for offline shows.
+* :ref:`Apply for a channel <joining:Requesting a Channel>` on the Discord (once you get to 10 videos).

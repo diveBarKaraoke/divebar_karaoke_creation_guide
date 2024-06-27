@@ -15,6 +15,18 @@ You can find a tutorial here:
 
 `Peareoke Song Build Tutorial <https://youtu.be/wEeHQsaMQdY>`_
 
+See also this tutorial and walkthrough from Nomad Karaoke:
+
+.. youtube:: wHiMti3xLJE
+   :privacy_mode:
+
+`Karaoke Creation Tutorial / Demo 1 (July 2023) <https://youtu.be/wHiMti3xLJE>`_
+
+.. youtube:: ZsROHgqAVHs
+   :privacy_mode:
+
+`Karaoke Creation Workflow (December 2023) <https://youtu.be/ZsROHgqAVHs>`_
+
 Get Started
 -----------
 

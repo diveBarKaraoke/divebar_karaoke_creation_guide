@@ -19,3 +19,9 @@ Get Started
 -----------
 
 The Tüül is the software of choice in our :doc:`Browser <qs-browser>` and :doc:`Mobile <qs-mobile>` Quick Start guides.
+
+Additional Resources
+--------------------
+
+* :doc:`loading_bars`
+* `Tutorial from the author <https://youtu.be/f6yzza_ZZY8>`_

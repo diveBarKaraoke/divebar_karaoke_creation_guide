@@ -78,7 +78,7 @@ Example:
 
 Songs that are only 2 words remain unchanged, Songs with more than 2 words, move “The” to the end - “, The”
 
-Example - 
+Example:
 
 * Band - The Gold :bdg-success:`Good`
 * Band - Gold Watch, The :bdg-success:`Good`

@@ -10,6 +10,8 @@ Audacity
 
 Carpy made a `quick video tutorial <https://youtu.be/hcezsYG8pIg>`_ to help with getting started.
 
+Lopenash has a `longer demo <https://youtu.be/qY9Cg4iO2rA>`_.
+
 REAPER
 --------
 

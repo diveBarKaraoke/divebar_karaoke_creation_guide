@@ -7,8 +7,10 @@ Several people have added content to this site, the doc from which it originated
 * aghastronaut (Karaoke from Space)
 * carpy
 * d3arest (Karaoketuottaja)
+* Lopenash
 * Matt M (It Might Be Karaoke)
 * Peareoke
 * Rosé (Rose's Garden Variety Karaoke)
 * THE RankAmateur FeelgoodMachine
+* TooBreezy (Breezys Studio Karaoke)
 * tricky2k
