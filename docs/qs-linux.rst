@@ -18,6 +18,9 @@ Wine is likely to be your default handler for .exe, so you can probably just dou
 
 .. include:: qs-lyrics.inc
 
+.. image:: images/qs-tuul-lyrics.png
+  :alt: Screenshot of The Tüül interface, showing Lyrics tab
+
 .. include:: qs-kbs.inc
 
 CDG Output

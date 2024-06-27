@@ -13,6 +13,17 @@ This is the software we'll use to sync lyrics. It is a paid product, but the eva
 .. include:: qs-x-minus.inc
 
 .. include:: qs-lyrics.inc
+   :end-line: 17
+
+Add Syllable Marks
+^^^^^^^^^^^^^^^^^^
+
+This is technically optional, but it really does help make the sync look more accurate, especially for sustained words. Add a hyphen ("-") between syllables to have them operate as separate units during syncing.
+
+It may be helpful to use the Magic Slashes feature on `The Tüül <https://the-tuul.com/>`_: Paste your lyrics into the lyrics tab then start marking syllables with slashes ("/"). If it sees a word repeated later in the lyrics, it will automatically add slashes to the same place in that instance of the word. Since The Tüül works with slashes rather than hyphens, you will need swap those out when you're done marking (find/replace in a text editor works great).
+
+.. image:: images/qs-tuul-lyrics.png
+  :alt: Screenshot of The Tüül interface, showing Lyrics tab
 
 Sync Lyrics
 -----------
@@ -24,7 +35,7 @@ OK, it's finally time to start the graphics.
 3. Hit the :menuselection:`Edit Lyrics` button.
 4. Paste your lyrics into the left pane.
 5. Ensure none of the lyrics go over the red bars on either side. If any do, add line breaks as needed.
-6. Go to :menuselection:`Maker --> Change Soundtrack` and locate your audio file (either the full audio or vocal stem, not the instrumental).
+6. Go to :menuselection:`Maker --> Change Soundtrack` and locate your audio file (either the full audio or vocal stem, not the instrumental). Avoid using a .flac file for this particular step because it may cause issues with syncing.
 7. Hit the :menuselection:`Start Sync` button.
 8. The audio will start playing. The next syllable/word will be highlighted in red. Hit space on your keyboard when the audio for it plays. If you have the evaluation version, you will only be able to play 2 minutes of the audio.
 

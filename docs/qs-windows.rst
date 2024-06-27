@@ -14,6 +14,9 @@ This is the software we'll use to sync lyrics. It is a paid product, but the fre
 
 .. include:: qs-lyrics.inc
 
+.. image:: images/qs-tuul-lyrics.png
+  :alt: Screenshot of The Tüül interface, showing Lyrics tab
+
 .. include:: qs-kbs.inc
 
 CDG Output

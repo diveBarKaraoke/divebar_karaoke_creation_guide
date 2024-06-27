@@ -13,9 +13,16 @@ Upload Song
 
 1. Click the Song File tab at the left and upload the original song, in as high quality as possible.
 2. The Tüül will try to auto-detect the artist and title. If they are wrong, correct them. This info is displayed at the start of the track in the output video.
+
+   .. image:: images/qs-tuul-song.png
+      :alt: Screenshot of The Tüül interface, showing Song File tab
+
 3. The Tüül will process the file in the background while you work on the other steps.
 
 .. include:: qs-lyrics.inc
+
+.. image:: images/qs-tuul-lyrics.png
+  :alt: Screenshot of The Tüül interface, showing Lyrics tab
 
 Finally, click the Add Underscores button in the UI so syncing will operate word by word instead of a line at a time.
 
@@ -23,6 +30,10 @@ Syncing Track
 -------------
 
 1. Switch to the Song Timing tab and hit Play to start syncing.
+
+   .. image:: images/qs-tuul-timing.png
+      :alt: Screenshot of The Tüül interface, showing Song Timing tab
+
 2. Tap space bar on your keyboard as each syllable starts and enter at the end of a word when there is a long gap between words.
 3. At the very end of the lyrics, hit Enter to finalize the sync.
 
@@ -30,6 +41,10 @@ Video Output
 ------------
 
 1. Go to the Submit tab and you can preview the sync. It will still play the unseparated audio.
+
+   .. image:: images/qs-tuul-submit.png
+      :alt: Screenshot of The Tüül interface, showing Submit tab
+
 2. If you are satisfied, hit the Create Video button and it will finish processing (may take a few minutes) and provide you with a zip file containing the mp4 file as well as some additional files you can disregard for now.
 3. Extract the mp4 file from the zip.
 

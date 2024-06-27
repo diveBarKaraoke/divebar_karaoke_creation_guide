@@ -28,7 +28,7 @@ Which platform do you want to use to create karaoke?
         :color: primary
         :expand:
 
-         macOS
+         Mac
 
    .. grid-item::
 
