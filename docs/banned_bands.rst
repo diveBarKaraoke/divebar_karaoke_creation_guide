@@ -3,7 +3,7 @@ Banned Bands List
 
 This is a list of artists, labels, or specific songs that have previously caused strikes or were marked as blocked. Note that it doesn't necessarily mean that all their content will stay that way, but it's important to be cautious, especially when strikes are involved.
 
-If you see a block or strike on your channel, please :doc:`let us know <feedback>` and take a see :ref:`youtube:Copyright Issues` for how to deal with the issue. Also feel free to reach out in the Discord if you need any help.
+If you see a block or strike on your channel, please :doc:`let us know <feedback>` and see :ref:`youtube:Copyright Issues` for how to deal with the issue. Also feel free to reach out in the Discord if you need any help.
 
 Copyright Strike Possible
 -------------------------
