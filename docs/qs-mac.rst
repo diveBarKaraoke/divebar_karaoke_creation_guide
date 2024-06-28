@@ -13,7 +13,7 @@ This is the software we'll use to sync lyrics. It is a paid product, but the eva
 .. include:: qs-x-minus.inc
 
 .. include:: qs-lyrics.inc
-   :end-line: 17
+   :end-line: 12
 
 Sync Lyrics
 -----------
