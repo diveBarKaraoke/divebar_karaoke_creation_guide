@@ -114,7 +114,7 @@ Syncing Features
      - Easy
      - No
      - By line
-     - No
+     - Yes [#f23]_
 
 Output Features
 ---------------
@@ -203,6 +203,7 @@ Output Features
 .. [#f4] Karaoke wipes use keyframe-based animation keyframes being able to occur sub-word or even sub-letter.
 .. [#f5] These don't have a syllable separator character, but sync start/stop points can be manually inserted between letters.
 .. [#f15] These don't really have a sync process at all, so they are entirely based on editing.
+.. [#f23] In current beta version
 .. [#f2] There are certainly many video editors available with varying features. This assumes you have one that does not have a specific karaoke feature, but does support layers and keyframe-based animation.
 .. [#f3] This is still new to the game, so features may soon increase.
 .. [#f8] This means if you export at a resolution, it renders the text at that resolution rather than scaling.
