@@ -18,7 +18,7 @@ Choose Your Own Adventure!
    .. grid-item-card::
       :text-align: center
 
-      .. button-ref:: quickstart
+      .. button-ref:: quickstarts
          :color: primary
          :expand:
 
@@ -39,7 +39,7 @@ Choose Your Own Adventure!
    :includehidden:
 
    self
-   quickstart
+   quickstarts
    introduction
    vocal_isolation
    audio_editing
