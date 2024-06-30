@@ -22,11 +22,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx_design',
-    'sphinxcontrib.youtube'
+    'sphinxcontrib.youtube',
+    'sphinxext.opengraph'
 ]
 autosectionlabel_prefix_document = True
 
-
+ogp_site_url='https://docs.divebar.me/'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

@@ -1,3 +1,4 @@
 sphinx_rtd_theme
 sphinx_design
 sphinxcontrib-youtube
+sphinxext-opengraph
