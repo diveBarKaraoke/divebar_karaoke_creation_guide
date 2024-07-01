@@ -7,6 +7,7 @@ Several people have added content to this site, the doc from which it originated
 * aghastronaut (Karaoke from Space)
 * carpy
 * d3arest (Karaoketuottaja)
+* Hal Jam
 * Lopenash
 * Matt M (It Might Be Karaoke)
 * Peareoke
