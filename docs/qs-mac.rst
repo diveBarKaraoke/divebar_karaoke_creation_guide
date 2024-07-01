@@ -69,7 +69,7 @@ Follow-up steps
 ---------------
 * Learn more about MidiCo Karaoke with some :doc:`background and video tutorials <midico>`.
 * View a :doc:`comparison of karaoke software <graphics_software>` to see if any would work better for you.
-* Read about :doc:`uvr` to help decide if you'd rather run your vocal isolation locally rather than with x-minus.
+* Read about :doc:`vocal_isolation` and :doc:`uvr` to help decide if you want to stick with x-minus or run your vocal isolation a different way.
 * Buy `MidiCo <https://www.midicokaraoke.com/en-a6/buy-license.html>`_ and the `Advanced Video Karaoke Maker plug-in <https://www.midicokaraoke.com/en-b9/buy-plugin.html?plugin=avm>`_ (the plug-in is almost mandatory to do anything useful with MidiCo).
 * Purchase a subscription for `x-minus <https://x-minus.pro/ai>`_ (click the link to try Premium)
 * Download `Audacity <https://www.audacityteam.org/download/mac/>`_ to edit your audio files if the stems directly from x-minus aren't quite good enough.

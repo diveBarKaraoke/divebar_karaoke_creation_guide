@@ -125,5 +125,5 @@ MDX is another great option for vocal isolation. Like UVR it separates a track i
 demucs
 ^^^^^^
 
-`Demucs <https://github.com/facebookresearch/demucs>`_, created by Facebook parent company Meta, has the ability to separate a track into as many as six stems: bass, drums, guitar, vocals, piano, other (last two not available on x-minus). Unfortunately the component parts do not isolate as cleanly as other AI models at this time. There are instances where it can still be effective to add sound back into the mix that might be missing from an isolation using another method.
+`Demucs <https://github.com/facebookresearch/demucs>`_, created by Facebook parent company Meta, has the ability to separate a track into as many as six stems: bass, drums, guitar, vocals, piano, other (piano not available for demucs on x-minus, and there is no six-stem option there either, only four, missing guitar and piano). Unfortunately the component parts do not isolate as cleanly as other AI models at this time. There are instances where it can still be effective to add sound back into the mix that might be missing from an isolation using another method.
 

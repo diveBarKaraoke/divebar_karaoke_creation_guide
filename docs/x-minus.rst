@@ -11,7 +11,7 @@ To process a file, set the AI model in the dropdown menu and any options for it 
 * Vocal remover - This should normally be the same instrumental model they recommend when you first load the site
 * Keep backing vocals - This is a karaoke model, meaning it attempts to separate lead vocals from instruments and backing vocals
 * Extract backing vocals - This is a model that will separate backing vocals from instruments and lead vocals
-* 4 stem splitter - This splits into drum, bass, guitar, and vocals
+* 4 stem splitter - This splits into drum, bass, vocals, and other
 
 There is additional detail about all the models if you hover over the question mark icon next to "AI model". This also explains some of the Ensemble options that will be available after you run the base model.
 

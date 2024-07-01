@@ -48,7 +48,7 @@ Follow-up steps
 
 * Learn more about Karaoke Builder Studio with some :doc:`background and video tutorials <kbs>`.
 * View a :doc:`comparison of karaoke software <graphics_software>` to see if any would work better for you.
-* Read about :doc:`uvr` to help decide if you'd rather run your vocal isolation locally rather than with x-minus.
+* Read about :doc:`vocal_isolation` and :doc:`uvr` to help decide if you want to stick with x-minus or run your vocal isolation a different way.
 * `Buy/Register Karaoke Builder Studio <https://www.karaokebuilder.com/buy.php>`_
 * Purchase a subscription for `x-minus <https://x-minus.pro/ai>`_ (click the link to try Premium)
 * Download `Audacity <https://www.audacityteam.org/download/windows/>`_ to edit your audio files if the stems directly from x-minus aren't quite good enough.
