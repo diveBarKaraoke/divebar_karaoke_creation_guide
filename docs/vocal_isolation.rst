@@ -8,7 +8,7 @@ Sourcing the original audio
 
 In order to isolate an instrumental track, you must first source the original audio if you don’t already have a digital copy of the song. For best results, use lossless audio, such as FLAC or WAV. If not available, use as high of quality as you can get.
 
-If you need to pull the audio from YouTube, you'll get the best quality by searching for "Song Artist - Song Name (Topic)". These are the official releases from the artists, though YouTube does still reencode them to fairly low bitrate (~128 kbps). For example, see this video for a Marcy Playground release and note the channel name displays "Marcy Playground - Topic": `<https://youtu.be/ytK71-PoVG8>`_
+If you need to pull the audio from YouTube, you'll get the best quality by searching for "Song Artist - Song Name (Topic)". These are the official releases from the artists, though YouTube does still re-encode them to fairly low bitrate (~128 kbps). For example, see this video for a Marcy Playground release and note the channel name displays "Marcy Playground - Topic": `<https://youtu.be/ytK71-PoVG8>`_
 
 Creating stems
 --------------
@@ -115,7 +115,7 @@ If you want to include background vocals from the song in your karaoke video, tr
 UVR
 ^^^
 
-UVR was the first model to gain widespread use. The vast majority of karaoke tracks on youtube made more than a year ago were created using UVR5 or a previous iteration. It is a very good starting place for folks intimidated by the huge variety of models as it almost always produces a usable result. While it’s not currently the most effective, that may change in the future as it gets updated frequently.
+UVR was the first model to gain widespread use. The vast majority of karaoke tracks on YouTube made more than a year ago were created using UVR5 or a previous iteration. It is a very good starting place for folks intimidated by the huge variety of models as it almost always produces a usable result. While it’s not currently the most effective, that may change in the future as it gets updated frequently.
 
 MDX
 ^^^

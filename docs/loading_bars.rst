@@ -1,7 +1,7 @@
 Loading Bars
 ============
 
-Special characters can be added to your karaoke creation file in lieu of lyrics to mimic loading bars or count-ins for use at the start of tracks or during instrumental breaks. Here is a non-exhaustive list of some useful unicode characters. These will not work with every font but should usually work with something standard like Arial or Times New Roman. https://en.wikipedia.org/wiki/List_of_Unicode_characters
+Special characters can be added to your karaoke creation file in lieu of lyrics to mimic loading bars or count-ins for use at the start of tracks or during instrumental breaks. Here is a non-exhaustive list of some useful Unicode characters. These will not work with every font but should usually work with something standard like Arial or Times New Roman. https://en.wikipedia.org/wiki/List_of_Unicode_characters
 
 Full Line
 ---------

@@ -16,7 +16,7 @@ These are recommended conventions for file names. Not everyone follows them exac
 The Basics
 ^^^^^^^^^^
 
-The following file naming convention guide was written by Rank Amateur Feel Good Machine with assistance from Acorlei. While a lot of folks are content to just share their work on Youtube, most also upload to a Google Drive so they can be downloaded for offline shows. When creating files for offline use, it is important to name them in a consistent way so karaoke hosting databases like Karma, OpenKJ, etc can use them. The conventions below are recommended because they work with most systems.
+The following file naming convention guide was written by Rank Amateur Feel Good Machine with assistance from Acorlei. While a lot of folks are content to just share their work on YouTube, most also upload to a Google Drive so they can be downloaded for offline shows. When creating files for offline use, it is important to name them in a consistent way so karaoke hosting databases like Karma, OpenKJ, etc can use them. The conventions below are recommended because they work with most systems.
 
 So you’ve given yourself a creator name. You’ve made a track. You want to share it with the world! Did you know there’s a standard style for the filename? Yep. There be! The VAST majority of current karaoke software likes to organize and sort its files using legacy disc coding. “But RAFM” you vehemently object, “the disc is dead!” Right you are, Kenny! BUT it’s still useful and helps KJs everywhere to follow a standard. SO! Let’s go over this.
 

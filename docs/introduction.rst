@@ -9,7 +9,7 @@ There are three main parts to the karaoke process.
 Audio
 -----
 
-The first step in creating a karaoke track is sourcing or creating the audio. Whether this is an intrumental track or has backing vocals is a personal preference. In diveBar, we prefer to use original audio rather than covers (see :doc:`original_audio`). This could be created by mixing official stems or an official instrumental or karaoke track from the artist if available. In most cases, that's not an option, so it's created by isolating vocals from the original mix, which is the strategy covered in this guide. To get started, see :doc:`vocal_isolation`.
+The first step in creating a karaoke track is sourcing or creating the audio. Whether this is an instrumental track or has backing vocals is a personal preference. In diveBar, we prefer to use original audio rather than covers (see :doc:`original_audio`). This could be created by mixing official stems or an official instrumental or karaoke track from the artist if available. In most cases, that's not an option, so it's created by isolating vocals from the original mix, which is the strategy covered in this guide. To get started, see :doc:`vocal_isolation`.
 
 Graphics
 --------

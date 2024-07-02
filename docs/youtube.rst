@@ -38,11 +38,11 @@ Karaoke Nerds
 Copyright Issues
 ----------------
 
-Unfortunately, some bands just don’t want to have their music hosted on Youtube in the form of instrumental or karaoke versions. Posting songs by these bands could very easily cost you your channel in the form of a copyright strike. If you receive three strikes within a 90 day period, your channel will be terminated. It is possible to get strikes removed (even after your channel has been terminated – allowing you to be reinstated) by contacting the party who issued the copyright strike. Generally, they are willing to rescind the strike if you offer to remove your video. Below is a form letter you can send if you receive a copyright strike as well as a link to a document containing a list of banned bands.
+Unfortunately, some bands just don’t want to have their music hosted on YouTube in the form of instrumental or karaoke versions. Posting songs by these bands could very easily cost you your channel in the form of a copyright strike. If you receive three strikes within a 90 day period, your channel will be terminated. It is possible to get strikes removed (even after your channel has been terminated – allowing you to be reinstated) by contacting the party who issued the copyright strike. Generally, they are willing to rescind the strike if you offer to remove your video. Below is a form letter you can send if you receive a copyright strike as well as a link to a document containing a list of banned bands.
 
   Greetings,
   
-  I received a [Copyright takedown notice] last night for the specified videos, on the youtube channel *CHANNEL NAME*. The video links are:
+  I received a [Copyright takedown notice] last night for the specified videos, on the YouTube channel *CHANNEL NAME*. The video links are:
 
   https://youtu.be/LINK1
 
