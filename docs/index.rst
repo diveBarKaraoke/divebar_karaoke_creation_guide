@@ -50,4 +50,3 @@ Choose Your Own Adventure!
    contributors
    feedback
    additional
-   search
