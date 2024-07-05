@@ -58,6 +58,7 @@ Karaoke Prep
 2. Pull lyrics from Genius
 3. Separate audio into stems
 4. Replace audio track in your karaoke video with the instrumental stem
+5. Upload to YouTube
 
 Lyrics Transcriber
 ^^^^^^^^^^^^^^^^^^
