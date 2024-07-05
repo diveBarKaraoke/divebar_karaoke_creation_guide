@@ -45,6 +45,7 @@ Choose Your Own Adventure!
    audio_editing
    syncing_lyrics
    graphics_software
+   helper_software
    distribution
    joining
    contributors
