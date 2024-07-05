@@ -40,6 +40,11 @@ Kadda OK Tools (again)
 
 See :ref:`above <helper_software:Kadda OK Tools>`, but worth listing here too as it can convert to/from .kbp and .rzlrc, and from .ctm (NeMo Forced Align).
 
+Ultimate CD+G to Video Karaoke Converter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Ultimate CD+G to Video Karaoke Converter <https://www.powerkaraoke.com/src/prod-ultimate-cdg-karaoke-video-converter.php>`_ is a tool from Doblon to upscale CDG into videos. It can be helpful to improve the appearance of CDGs, especially if you have a lot of them. The upscaling is noticeable so it's often better to use a converter that renders text from the project file, like the above options. Note that this is the successor to "Power CDG+G to Video" and "Power CD+G to MP4", so if you have heard of either of those, it's the same concept.
+
 
 Automation
 ----------
