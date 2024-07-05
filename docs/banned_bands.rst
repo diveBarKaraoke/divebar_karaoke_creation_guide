@@ -15,7 +15,7 @@ Copyright Strike Possible
 * Eagles
 * Ed Sheeran
 * Guns n’ Roses
-* Jimi Hendrix (became available in 11-2022, confirmed RVZN)
+* Jimi Hendrix (became available in 11-2022, confirmed RVZN/Nomad)
 * MIKA
 * Monaco
 * Olly Murs
@@ -32,6 +32,8 @@ Copyright Strike Possible
 * kavinsky
 * Lindsey Buckingham
 * otoboke beaver
+* Slipknot - The End. So Far (2022)
+* Yoshiki, HYDE - Red Swan
 * Arno Elias - El Corazon
 
 Worldwide Blocks
@@ -66,4 +68,5 @@ Worldwide Blocks
 * Ozzy Osborne - Not Going Away
 * Bill Withers - Ain’t No Sunshine
 * Phish - Fast Enough For You
+* Don Henley - Nobody’s Business
 * Beth Orton - Stars All Seem To Weep
