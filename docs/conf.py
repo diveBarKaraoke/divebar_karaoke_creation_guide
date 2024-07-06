@@ -42,3 +42,9 @@ html_theme_options = {
 html_css_files = [
     'css/custom.css'
 ]
+html_context = {
+    'github_repo': 'diveBarKaraoke/divebar_karaoke_creation_guide',
+    'github_version': 'main',
+    'conf_py_path': '/docs/',
+    'display_github': True
+}
