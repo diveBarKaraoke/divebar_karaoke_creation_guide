@@ -52,7 +52,7 @@ Automation
 Karaoke Prep
 ^^^^^^^^^^^^
 
-`Karaokei Prep <https://github.com/karaokenerds/karaoke-prep>`_ is a tool that automates the work before and after syncing a track. Specifically, it will
+`Karaoke Prep <https://github.com/karaokenerds/karaoke-prep>`_ is a tool that automates the work before and after syncing a track. Specifically, it will
 
 1. Download a track or playlist from YouTube
 2. Pull lyrics from Genius
