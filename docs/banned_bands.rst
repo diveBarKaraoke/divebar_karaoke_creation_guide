@@ -47,6 +47,7 @@ Worldwide Blocks
 * Michelle Shocked (while she doesn’t strike, claim, or block, it’s still for the best to avoid her.)
 * The Damned - Neat Neat Neat seemingly specifically for some reason except Japan
 * King Crimson - “Starless (Abridged)” (confirmed RVZN 05-2023)
+* King Crimson - Moonchild
 * Prince (much of the world but still allowed on YouTube)
 * The Fratellis (Confirmed AVD 01-2024 for song I Guess… I Suppose… on YouTube)
 * Métisse - Boom Boom Bâ
