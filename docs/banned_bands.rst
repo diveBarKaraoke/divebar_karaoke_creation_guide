@@ -37,7 +37,7 @@ Copyright Strike Possible
 * Arno Elias - El Corazon
 * Garth Brooks - Not clear how often, it's known that keepthebestalive got one once
 * ELP - Still You Turn Me On
-* J. D.  Souther
+* J\. D.  Souther
 
 Worldwide Blocks
 ----------------
