@@ -35,6 +35,9 @@ Copyright Strike Possible
 * Slipknot - The End. So Far (2022)
 * Yoshiki, HYDE - Red Swan
 * Arno Elias - El Corazon
+* Garth Brooks - Not clear how often, it's known that keepthebestalive got one once
+* ELP - Still You Turn Me On
+- J. D.  Souther
 
 Worldwide Blocks
 ----------------
@@ -70,3 +73,5 @@ Worldwide Blocks
 * Phish - Fast Enough For You
 * Don Henley - Nobody’s Business
 * Beth Orton - Stars All Seem To Weep
+* The Beatles - Some of these aren't blocked anymore, but many still are, so definitely do a test upload before creating the whole karaoke track
+* John Lennon - Mother - RVZN got a block that doesn't show up in Studio and doesn't list the label/artist. He tried a reupload and got the same result
