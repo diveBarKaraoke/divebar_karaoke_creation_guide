@@ -26,7 +26,24 @@ Wine is likely to be your default handler for .exe, so you can probably just dou
 CDG Output
 ----------
 
-As of the time of writing this (June 2024), the CDG and Video export features in KBS don't work in Wine. But don't worry, the next step will get us a great quality video.
+CDG output is possible in Linux, but it is a little tricky to get working. You need to ensure Anti-aliasing/sub-pixel hinting is disabled in your window manager when you launch KBS. You can turn it back on after starting KBS. There are settings in Wine related to font smoothing, but they don't seem to have any effect, at least in modern version of Wine. You can verify if your font hinting settings are properly disabled by viewing the full screen preview by clicking on the preview box from the main screen.
+
+.. image:: images/qs-kbs-fullscreen-1.png
+   :alt: Screenshot of KBS main window, showing magnifying glass cursor over preview box
+
+If you have hinting turned on, you'll see multiple colors or shades of gray.
+
+.. image:: images/qs-kbs-fullscreen-2.png
+   :alt: Cropped screenshot of fullscreen preview, showing different-colored pixels (font hinting enabled)
+
+What you want to see is solid colors.
+
+.. image:: images/qs-kbs-fullscreen-3.png
+   :alt: Cropped screenshot of fullscreen preview, showing solid colors (no hinting)
+
+Once you've confirmed you have it configured correctly, you can generate a CDG through the Build button. Note that if you're using the trial of KBS, the output will not be fully usable, but will be good enough to see that it worked.
+
+The Slides feature (not covered by this tutorial, but commonly used with CDG output) does not currently work in Wine - it seems to be an issue with the ole32 and oleaut32 implementations.
 
 .. include:: qs-kbp2video.inc
 
