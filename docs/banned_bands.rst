@@ -20,7 +20,8 @@ Copyright Strike Possible
 * Monaco
 * Olly Murs
 * Ozzy Osbourne
-* Richard Cheese
+* Richard Cheese - Not actively watched, but enforced swiftly when pointed out to his team
+* Ride the Cyclone (musical, Brooke Maxwell and Jacob Richmond) - Strike issued by WMG for Uranium Suite 8/2024
 * Robbie Williams
 * Supertramp				   (Evergreen Social Media Associates)
 * Take That (I wonder if they say the band’s name when they issue the strikes? Probably so…)
