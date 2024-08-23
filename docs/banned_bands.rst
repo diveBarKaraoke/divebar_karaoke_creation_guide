@@ -54,6 +54,7 @@ Worldwide Blocks
 * Métisse - Boom Boom Bâ
 * Nick Cave - Into Your Arms
 * Fever Ray - Keep the Streets Empty for Me
+* IAMX - You Can Be Happy (WMG, 8/2024)
 * Judee Sill - Jesus Was a Crossmaker US only
 * Linda Rondstadt - You're No Good
 * Rivers Cuomo - Blast Off!
