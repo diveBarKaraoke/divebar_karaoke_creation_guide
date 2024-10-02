@@ -52,7 +52,7 @@ Software Options
      - Varying
    * - :ref:`other_graphics_software:MyKaraoke Video` [#f3]_
      - Browser
-     - Unknown [#f21]_
+     - $0-$10/mo [#f21]_
 
 Syncing Features
 ----------------
@@ -197,7 +197,7 @@ Output Features
 .. [#f18] There is a free version, but it is a bit limited, so at least the Gold version is recommended. The only potentially problematic limitations on the Gold version are that videos are limited to 10 minutes, and free updates are limited to 2 years. The Platinum edition removes both of those and is currently $49.99.
 .. [#f19] Some functionality is ad-supported.
 .. [#f20] Registration is encouraged but not required (starting at $12.99/year)
-.. [#f21] Currently free, but there is expected to be some pricing model eventually.
+.. [#f21] Free for 10 videos per month and manual syncing, up to $10 for 50 videos per month and all features.
 .. [#f1] This assumes you have both their CDG and video software, sync timings in one, and use both to export.
 .. [#f6] Not in the software itself, but you can export a .ass file that could be edited in a subtitle or text editor.
 .. [#f4] Karaoke wipes use keyframe-based animation keyframes being able to occur sub-word or even sub-letter.
