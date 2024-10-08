@@ -25,3 +25,4 @@ Additional Resources
 
 * :doc:`loading_bars`
 * `Tutorial from the author <https://youtu.be/f6yzza_ZZY8>`_
+* `Tutorial using The Tüül and fine-tuning with Aegisub <https://youtu.be/lm9uWW1cZ7Y>`_
