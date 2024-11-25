@@ -43,6 +43,8 @@ Copyright Strike Possible
 * ELP - Still You Turn Me On
 * J\. D.  Souther
 * PRO8L3M - Agora/RWH Records
+* Ras Sparrow
+* `Some Bizzare Records/Stevo Pearce <https://en.wikipedia.org/wiki/Some_Bizzare_Records>`_ - Includes some albums by Coil, Einstürzende Neubauten, Soft Cell, etc. May strike with 7-day notice
 
 Worldwide Blocks
 ----------------
@@ -84,3 +86,4 @@ Worldwide Blocks
 * John Lennon - Mother - RVZN got a block that doesn't show up in Studio and doesn't list the label/artist. He tried a reupload and got the same result
 * PRO8L3M - Noc
 * Quebonafide - Romantic Psycho
+* Smashing Pumpkins - Seem to arbitrarily block and unblock content over time
