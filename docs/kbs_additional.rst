@@ -135,3 +135,101 @@ See what I mean? If you’re also going to be having background vocals running w
          :alt: Screenshot of KBS style tab, showing a background style was created
 
 That way, your lead doesn’t get confused while singing. CTRL-Click the background vocals and make sure their “Line Style” is set to your background. Make sure that the style is distinctive as well, to also prevent confusion. Different colors often help. 
+
+KBS Keyboard Shortcuts
+^^^^^^^^^^^^^^^^^^^^^^
+
+Guide by Matt M (It Might Be Karaoke)
+
+KBS has a lot of keyboard shortcuts that can be used to improve the efficiency of authoring tracks. This attempts to cover all of them. If you notice any missing or incorrect, please :doc:`report them <feedback>` so the document can be updated.
+
+Sync Window
+"""""""""""
+
+* :kbd:`Space` -- Next word (hold down to maintain wiping on a long word/syllable at the end of a line)
+* :kbd:`Control` -- Pause wiping (add gap, especially useful for mid-line pauses)
+* :kbd:`P` -- Play/Pause the audio
+* :kbd:`B` -- Back (delete all sync data for the current page (or previous if you have not entered anything yet on this one) and start it again)
+* :kbd:`Control-Q`/:kbd:`Alt-F4` -- Exit sync window without saving (will prompt to confirm)
+
+Main Window
+"""""""""""
+
+* :kbd:`Control-N` -- New Project
+* :kbd:`Control-O` -- Open Project
+* :kbd:`Control-S` -- Save Project
+* :kbd:`Control-B` -- Build (dropdown)
+* :kbd:`Control-R` -- Reset display/remove timings (shows prompt)
+* :kbd:`Control-P`/:kbd:`Control-Space` -- Play/Pause the audio from the currently selected line/position on the Jump slider
+* Mouse wheel over Play button for volume (no keyboard shortcut seems to be available)
+* :kbd:`Left`/:kbd:`Right`/:kbd:`Home`/:kbd:`End`/:kbd:`Shift-Left`/etc -- Standard text editing controls work in syllable/word fields as well as the field for the audio file
+* :kbd:`Control-Q`/:kbd:`Alt-F4` -- Exit KBS (will prompt to save, exit without saving, or cancel exit operation)
+
+Tab traversal is a bit odd, but it can still be helpful. Before sync, the traversal order is the following (:kbd:`Tab`/:kbd:`Shift-Tab` to move forward/back):
+
+[Unknown] ↔ **Page List** → [Dead End]
+
+**Bold** signifies the initially selected item.
+
+[Unknown] means that I can't figure out which UI element is selected, and attempting to activate it does not seem to do anything. [Dead End] means not only that it's unclear which element is selected, but tab traversal break entirely after selecting it.
+
+There is also a second traversal available, not connected to the first (select one of the elements in it, then you can move through it):
+
+[Dead End] ← Track/Wiping/Split tabs ↔ [Unknown] ↔ [Unknown] ↔ Audio File textbox ↔ Lyrics text area ↔ [Unknown] ↔ Help ↔ [Unknown] ↔ CDG Player ↔ Play button ↔ [Unknown] ↔ [Unknown] ↔ [Unknown]
+
+When buttons are selected, they can be activated with :kbd:`Space` or :kbd:`Enter`. Pages can be navigated with :kbd:`Up`/:kbd:`Down`, and you can jump to the first/last with :kbd:`PageUp`/:kbd:`PageDown`. Tabs can be switched with :kbd:`Left`/:kbd:`Right` (or :kbd:`Up`/:kbd:`Down`).
+
+After sync, the traversal is as follows:
+
+[Dead End] ← [Unknown] ↔ Track/Wiping/Split tabs ↔ [Unknown] ↔ Across ↔ Down ↔ Rotation ↔ [Unknown] ↔ Audio File textbox ↔ [Unknown] ↔ Help ↔ Reset ↔ CDG Player ↔ Play button ↔ [Unknown] ↔ [Unknown] ↔ Each syllable on the line ↔ **Page List** → [Before Page List*]
+
+“Before Page List” is a strange place where :kbd:`Shift-Tab` goes back to the syllables but :kbd:`Tab` goes nowhere.
+
+Edit Window
+"""""""""""
+
+* :kbd:`Control-S` -- Save Project
+* :kbd:`Control-A` -- Select All (helpful for bulk movement of timings)
+* :kbd:`Control-B` -- Build (dropdown)
+* :kbd:`Control-R` -- Reset display/remove timings (shows prompt)
+* :kbd:`Space`/:kbd:`P` -- Play/Pause audio from current position
+* :kbd:`L` -- Play current line (closest to cursor if nothing is selected, otherwise *first* selected line)
+* :kbd:`PageUp`/:kbd:`PageDown` -- Move back/forward 10 seconds
+* :kbd:`Home`/:kbd:`End` -- Move to start/end of audio
+* Mouse wheel advances 50 frames (.5 seconds) in wiping tab, 100 in display/remove (no keyboard shortcut). Adding :kbd:`Control` changes it to 1 (both tabs)
+* :kbd:`Control-Q`/:kbd:`Alt-F4` -- Quit editing **without saving** (does **NOT** prompt)
+
+With one or more syllables/words selected in the **Lyrics Wiping** tab:
+
+* :kbd:`Up`/:kbd:`Down` -- Move wiping times (start and end). With all tracks selected, this is like the adjust whole track button, but only adjusting the wipe instead of the wipe and display/remove like that does.
+* :kbd:`Shift-Up`/:kbd:`Shift-Down` -- Adjust wipe start time
+* :kbd:`Control-Up`/:kbd:`Control-Down` -- Adjust wipe end time
+
+With the above, add :kbd:`Alt` to toggle sticky borders (which you'll almost always want turned off with :kbd:`Up`/:kbd:`Down` and on with :kbd:`Shift-Up`/:kbd:`Shift-Down`)
+
+Note that some functionality in the arrow buttons in the wiping UI can changed by keyboard modifiers:
+
+* :kbd:`Control` -- Adjust by 5 frames instead of 1
+* :kbd:`Alt` -- Toggle sticky borders
+
+Additionally, click selection behavior can be changed with the following keyboard modifiers:
+
+* :kbd:`Control` -- Select syllable/word without deselecting the current selection
+* :kbd:`Shift` -- Select all syllables/words on a line
+
+With one or more lines selected in the **Display/Remove** tab:
+
+* :kbd:`Left`/:kbd:`Right` -- Move line timing (display and remove). With all tracks selected, this is like the adjust whole track button, but only adjusting the display/remove instead of both the wipe and display/remove like that does.
+* :kbd:`Control-Left`/:kbd:`Control-Right` -- Adjust display time
+* :kbd:`Alt-Left`/:kbd:`Alt-Right` -- Adjust remove time
+
+Note that some functionality in the arrow buttons in the display/remove UI can changed by keyboard modifiers:
+
+* :kbd:`Control` -- Adjust by 10 frames instead of 2
+* :kbd:`Alt` -- Snap to timer (cursor) - note this is the only way to adjust by 1 frame, by using :kbd:`Control` with mouse wheel to move the cursor, then snapping to it
+
+Additionally, click selection behavior can be changed with the following keyboard modifiers:
+
+* :kbd:`Control` -- Select line without deselecting the current selection
+* :kbd:`Shift` -- Select all lines in a page
+
