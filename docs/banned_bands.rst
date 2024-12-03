@@ -12,7 +12,7 @@ Copyright Strike Possible
 * Anohni / Antony and the Johnsons
 * Bryan Adams (confirmed by RVZN 03-2023) Web Sheriff (not at time of posting but maybe months later. Letter sent to WS without response.)
 * Coldplay - May not be an issue anymore
-* Eagles
+* Eagles - They seem to be unblocking things recently (late 2024). Still risky, but possible they stopped issuing strikes as well.
 * Ed Sheeran
 * Guns n’ Roses
 * Dream Theater - **Needs confirmation on which songs** - Many are currently online, apparently with no issue
@@ -74,7 +74,6 @@ Worldwide Blocks
 * Muse - Mercy
 * AC/DC - Mistress For Christmas
 * AC/DC - Gone Shootin'
-* The Eagles - Try And Love Again
 * Ozzy Osborne - Let It Die
 * Ozzy Osborne - Lay Your World On Me
 * Ozzy Osborne - Not Going Away
