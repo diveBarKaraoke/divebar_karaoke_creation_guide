@@ -86,3 +86,4 @@ Worldwide Blocks
 * PRO8L3M - Noc
 * Quebonafide - Romantic Psycho
 * Smashing Pumpkins - Seem to arbitrarily block and unblock content over time
+* De La Soul - Reservoir Media Management - Sometimes block/unblock content
