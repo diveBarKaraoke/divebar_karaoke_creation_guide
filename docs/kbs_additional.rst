@@ -181,7 +181,7 @@ When buttons are selected, they can be activated with :kbd:`Space` or :kbd:`Ente
 
 After sync, the traversal is as follows:
 
-[Dead End] ← [Unknown] ↔ Track/Wiping/Split tabs ↔ [Unknown] ↔ Across ↔ Down ↔ Rotation ↔ [Unknown] ↔ Audio File textbox ↔ [Unknown] ↔ Help ↔ Reset ↔ CDG Player ↔ Play button ↔ [Unknown] ↔ [Unknown] ↔ Each syllable on the line ↔ **Page List** → [Before Page List*]
+[Dead End] ← [Unknown] ↔ Track/Wiping/Split tabs ↔ [Unknown] ↔ Across ↔ Down ↔ Rotation ↔ Lyric lines  ↔ Audio File textbox ↔ [Unknown] ↔ Help ↔ Reset ↔ CDG Player ↔ Play button ↔ [Unknown] ↔ [Unknown] ↔ Each syllable on the line ↔ **Page List** → [Before Page List*]
 
 “Before Page List” is a strange place where :kbd:`Shift-Tab` goes back to the syllables but :kbd:`Tab` goes nowhere.
 
