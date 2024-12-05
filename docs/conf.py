@@ -23,7 +23,8 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx_design',
     'sphinxcontrib.youtube',
-    'sphinxext.opengraph'
+    'sphinxext.opengraph',
+    'sphinx_favicon'
 ]
 autosectionlabel_prefix_document = True
 
@@ -48,3 +49,9 @@ html_context = {
     'conf_py_path': '/docs/',
     'display_github': True
 }
+favicons = [
+    {"href": "favicon.ico"},
+    {"href": "favicon-160x160.png"},
+    {"href": "favicon-android-192x192.png"},
+    {"href": "favicon-ios-180x180.png", "rel": "apple-touch-icon"}
+]
