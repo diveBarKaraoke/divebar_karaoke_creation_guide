@@ -5,15 +5,6 @@ This is a list of artists, labels, or specific songs that have previously caused
 
 If you see a block or strike on your channel, please :doc:`let us know <feedback>` and see :ref:`youtube:Copyright Issues` for how to deal with the issue. Also feel free to reach out in the Discord if you need any help.
 
-How to Use this Info
---------------------
-
-Basically, "be careful". The exact meaning of that depends on your risk tolerance. For the most part, the only risk of copyright *blocks* is wasted effort, but three copyright *strikes* causes your whole channel to be taken down.
-
-If a track is likely to be blocked, it's usually a good idea to do a test upload of just the audio (and music video if you will be using it as a background video). Mark it as unlisted or private when uploading. Wait for it to finish Content ID and make sure it's not blocked. If it's not blocked, you're unlikely to get a copyright block on the final track (though it's still not impossible as manual blocks can still be applied later).
-
-If a track is likely to get a strike, there's no real way to "test" it. Sometimes bands/labels issue strikes years after upload too, so it's always risky uploading tracks for bands that have previously issued them even if you've had them for a while. One mitigation some channels will do is to avoid uploading more than 2 tracks for any band that they think may strike. This way, they can't instantly cause the 3 strikes needed to take down the channel (though multiple bands/labels in combination still can).
-
 Copyright Strike Possible
 -------------------------
 
@@ -96,3 +87,12 @@ Worldwide Blocks
 * Smashing Pumpkins - Seem to arbitrarily block and unblock content over time
 * De La Soul - Reservoir Media Management - Sometimes block/unblock content
 * The Pogues - Transmetropolitan
+
+How to Use this Info
+--------------------
+
+Basically, "be careful". The exact meaning of that depends on your risk tolerance. For the most part, the only risk of copyright *blocks* is wasted effort, but three copyright *strikes* causes your whole channel to be taken down.
+
+If a track is likely to be blocked, it's usually a good idea to do a test upload of just the audio (and music video if you will be using it as a background video). Mark it as unlisted or private when uploading. Wait for it to finish Content ID and make sure it's not blocked. If it's not blocked, you're unlikely to get a copyright block on the final track (though it's still not impossible as manual blocks can still be applied later).
+
+If a track is likely to get a strike, there's no real way to "test" it. Sometimes bands/labels issue strikes years after upload too, so it's always risky uploading tracks for bands that have previously issued them even if you've had them for a while. One mitigation some channels will do is to avoid uploading more than 2 tracks for any band that they think may strike. This way, they can't instantly cause the 3 strikes needed to take down the channel (though multiple bands/labels in combination still can).
