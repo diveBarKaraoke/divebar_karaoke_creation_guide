@@ -3,3 +3,4 @@ sphinx_design
 sphinxcontrib-youtube
 sphinxext-opengraph
 sphinx-favicon
+sphinx-sitemap

@@ -24,11 +24,14 @@ extensions = [
     'sphinx_design',
     'sphinxcontrib.youtube',
     'sphinxext.opengraph',
-    'sphinx_favicon'
+    'sphinx_favicon',
+    'sphinx_sitemap'
 ]
 autosectionlabel_prefix_document = True
 
-ogp_site_url='https://docs.divebar.me/'
+html_baseurl = 'https://docs.divebar.me/'
+sitemap_url_scheme = "{link}"
+ogp_site_url = html_baseurl
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -40,6 +43,7 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'style_nav_header_background': '#000000'
 }
+html_extra_path = ['robots.txt']
 html_css_files = [
     'css/custom.css'
 ]
