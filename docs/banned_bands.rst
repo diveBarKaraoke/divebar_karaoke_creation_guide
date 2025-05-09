@@ -120,8 +120,9 @@ Worldwide Blocks
 * Smashing Pumpkins - Seem to arbitrarily block and unblock content over time
 * De La Soul - Reservoir Media Management - Sometimes block/unblock content
 * The Pogues - Transmetropolitan
-* Steam Powered Giraffe - many (all?) songs as of ~May 2025
+* Steam Powered Giraffe - many songs as of ~May 2025
 * Panic At the Disco! - Don't Let the Lights Go Out (Oct 2022) - WMG on behalf of Fueled By Ramen/Atlantic
+* CSS (Cansei de Ser Sexy) - Planta album (all songs, Mar 2025)
 
 How to Use this Info
 --------------------
