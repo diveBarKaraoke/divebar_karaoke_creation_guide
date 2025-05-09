@@ -47,6 +47,27 @@ Copyright Strike Possible
 * `Some Bizzare Records/Stevo Pearce <https://en.wikipedia.org/wiki/Some_Bizzare_Records>`_ - Includes some albums by Coil, Einstürzende Neubauten, Soft Cell, etc. May strike with 7-day notice
 * Pearl Jam - Apparently sent CC a warning that they were going to issue strikes
 
+Strike Log
+----------
+
+These are specific instances of strikes received by creators. This will likely be organized better later, and possibly replace the Strike Possible list when there is enough data. Ask on Discord how to report to this list or use the :doc:`regular feedback process <feedback>`.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Date
+     - Artist
+     - Title
+     - Notes
+   * - 2024-07-04
+     - Acid Bath
+     - The Blue
+     - Rotten Records
+   * - 2025-03-20
+     - Acid Bath
+     - Bleed Me An Ocean
+     - Rotten Records
+
 Worldwide Blocks
 ----------------
 
