@@ -59,14 +59,26 @@ These are specific instances of strikes received by creators. This will likely b
      - Artist
      - Title
      - Notes
+   * - 2024-04-29
+     - Monaco
+     - Junk
+     - Issued by "David Potts Peter Hook"
    * - 2024-07-04
      - Acid Bath
      - The Blue
      - Rotten Records
+   * - 2025-01-22
+     - The Eagles
+     - Heartache Tonight, Desperado, Wasted Time
+     - 
    * - 2025-03-20
      - Acid Bath
      - Bleed Me An Ocean
      - Rotten Records
+   * - 2025-03-23
+     - Schmekel
+     - You're Not The Only Bear I Fisted
+     - 
 
 Worldwide Blocks
 ----------------
@@ -108,6 +120,8 @@ Worldwide Blocks
 * Smashing Pumpkins - Seem to arbitrarily block and unblock content over time
 * De La Soul - Reservoir Media Management - Sometimes block/unblock content
 * The Pogues - Transmetropolitan
+* Steam Powered Giraffe - many (all?) songs as of ~May 2025
+* Panic At the Disco! - Don't Let the Lights Go Out (Oct 2022) - WMG on behalf of Fueled By Ramen/Atlantic
 
 How to Use this Info
 --------------------
