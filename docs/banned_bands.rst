@@ -80,7 +80,7 @@ These are specific instances of strikes received by creators. This will likely b
      - Plastic Love
      - 
    * - 2025-01-22
-     - The Eagles
+     - Eagles
      - Heartache Tonight, Desperado, Wasted Time
      - 
    * - 2024-10-27
@@ -99,14 +99,89 @@ These are specific instances of strikes received by creators. This will likely b
      - Acid Bath
      - The Blue
      - Rotten Records
+   * - 2024-05-11
+     - Richard Cheese
+     - People Equal Shit
+     - 
    * - 2024-04-29
      - Monaco
      - Junk
      - Issued by "David Potts Peter Hook"
+   * - 2024-03-16
+     - Kavinsky ft. Lovefoxxx
+     - Nightcall
+     - 
+   * - 2024-03-16
+     - Otoboke Beaver
+     - If you light the heart, turn it off and go home
+     - 
+   * - 2024-03-16
+     - CHROMATICS
+     - CHERRY 
+     - 
+   * - 2024-03-16
+     - Lindsey Buckingham
+     - Trouble
+     - 
+   * - 2024-03-16
+     - SIX9INE ft Nicki Minaj
+     - FEFE
+     - 
+   * - 2024-03-06
+     - Antony and the Johnsons
+     - Hope There's Someone
+     - 
+   * - 2024-02-28
+     - Tyler, the Creator
+     - 911 Mr. Lonely, After the Storm, Earquake, I think, New Magic Wand, OKRA, PERFECT, POTATO SALAD, SEE YOU AGAIN, TROUBLE ON MY MIND, WUSYANAME, YONKERS
+     - 
+   * - 2024-02-28
+     - Yoshiki feat. Hyde
+     - Red Swan
+     - 
+   * - 2024-01-01
+     - Emerson, Lake & Palmer
+     - Still...You Turn Me On
+     - 
+   * - 2024-01-01
+     - Eagles
+     - The Last Resort
+     - 
+   * - 2023-09-05
+     - Richard Cheese
+     - Insane In The Brain
+     - 
+   * - 2023-03-29
+     - Bryan Adams
+     - (Everything I Do) I Do It for You
+     -
+   * - 2023-01-09
+     - Tool
+     - Schism
+     -
+   * - 2022-06-23
+     - Mike Patton
+     - Teenage Mutant Ninja Turtles Theme (Shredder's Revenge OST)
+     -
+   * - 2022-06-14
+     - Cola Boyy
+     - Mailbox
+     -
+   * - 2022-04-04
+     - Tool
+     - Right In Two
+     -
+   * - 2022-04-05
+     - Tool
+     - The Pot
+     -
    * - 2022-02-01
      - Arno Elias
      - El Corazon
      - 
+
+..
+   # Last added Tool - The Pot 2025-05-10 18:15 UTC
 
 Worldwide Blocks
 ----------------
