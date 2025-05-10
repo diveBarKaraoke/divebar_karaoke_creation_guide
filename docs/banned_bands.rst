@@ -59,25 +59,53 @@ These are specific instances of strikes received by creators. This will likely b
      - Artist
      - Title
      - Notes
-   * - 2024-04-29
-     - Monaco
-     - Junk
-     - Issued by "David Potts Peter Hook"
-   * - 2024-07-04
+   * - 2025-04-26
+     - Bryan Adams
+     - Summer of 69
+     - 
+   * - 2025-03-23
+     - Schmekel
+     - You're Not The Only Bear I Fisted
+     - 
+   * - 2025-03-21
      - Acid Bath
-     - The Blue
-     - Rotten Records
-   * - 2025-01-22
-     - The Eagles
-     - Heartache Tonight, Desperado, Wasted Time
+     - Scream of the Butterfly
      - 
    * - 2025-03-20
      - Acid Bath
      - Bleed Me An Ocean
      - Rotten Records
-   * - 2025-03-23
-     - Schmekel
-     - You're Not The Only Bear I Fisted
+   * - 2025-02-20
+     - Mariya Takeuchi
+     - Plastic Love
+     - 
+   * - 2025-01-22
+     - The Eagles
+     - Heartache Tonight, Desperado, Wasted Time
+     - 
+   * - 2024-10-27
+     - Kate Bush
+     - Wuthering Heights
+     - 
+   * - 2024-10-27
+     - a-ha
+     - The Sun Always Shines on TV
+     - Reinstated after appeal
+   * - 2024-08-20
+     - Brooke Maxwell & Jacob Richmond
+     - The Uranium Suite, Noel's Lament
+     - Multiple from Ride The Cyclone musical
+   * - 2024-07-04
+     - Acid Bath
+     - The Blue
+     - Rotten Records
+   * - 2024-04-29
+     - Monaco
+     - Junk
+     - Issued by "David Potts Peter Hook"
+   * - 2022-02-01
+     - Arno Elias
+     - El Corazon
      - 
 
 Worldwide Blocks
