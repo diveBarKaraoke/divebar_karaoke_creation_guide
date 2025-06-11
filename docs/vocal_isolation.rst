@@ -6,7 +6,9 @@ The first step in creating a karaoke video is to isolate the vocals from the ins
 Sourcing the original audio
 ---------------------------
 
-In order to isolate an instrumental track, you must first source the original audio if you don’t already have a digital copy of the song. For best results, use lossless audio, such as FLAC or WAV. If not available, use as high of quality as you can get.
+In order to isolate an instrumental track, you must first source the original audio if you don’t already have a digital copy of the song. For best results, use lossless audio, such as FLAC or WAV.
+
+While many digital music stores do not offer lossless tracks for purchase, some that do are Bandcamp, HDTracks, and Qobuz. In rare cases an artist may sell tracks on their own website. Another option is to rip from CD. There are also some streaming services that have lossless options (e.g. Deezer and Tidal), but they aren't intended for download and tools which do so may be unreliable. If lossless is not available, use as high of quality as you can get.
 
 If you need to pull the audio from YouTube, you'll get the best quality by searching for "Song Artist - Song Name (Topic)". These are the official releases from the artists, though YouTube does still re-encode them to fairly low bitrate (~128 kbps). For example, see this video for a Marcy Playground release and note the channel name displays "Marcy Playground - Topic": `<https://youtu.be/ytK71-PoVG8>`_
 
