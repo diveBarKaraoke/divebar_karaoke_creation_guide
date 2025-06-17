@@ -8,11 +8,23 @@ Install Required Software
 
 First, ensure you have `wine <https://www.winehq.org/>`_ installed. We are going to use it to run Karaoke Builder Studio. Almost all Linux distros have it in their repos and  just call the package "wine". There's no need to make sure you have the latest from WineHQ - every version I've tried has worked fine.
 
+If you do not have it already, you will also need winetricks to install the VB6 Runtime needed for KBS to install and run properly. You may have a package available in your distribution for it (usually just called "winetricks"). If not, `manual download information <https://gitlab.winehq.org/wine/wine/-/wikis/Winetricks>`_ is available.
+
+Once that's installed, run the following command to install the runtime:
+
+    .. code-block:: bash
+    
+       winetricks vb6run
+
+You can alternatively use the winetricks GUI to choose the option to Install a Windows DLL or component and choose vb6run that way.
+
+As with any wine commands, it can be run in a prefix instead of .wine in your home directory (see `this FAQ entry <https://gitlab.winehq.org/wine/wine/-/wikis/FAQ#can-i-store-the-virtual-windows-installation-somewhere-other-than-wine>`_ for more info)
+
 Next proceed with KBS:
 
 :download:`Download Karaoke Builder Studio <https://www.karaokebuilder.com/download/kbstudio.exe>`
 
-Wine is likely to be your default handler for .exe, so you can probably just double-click the installer like on Windows. If not, it should be in your right-click "Open With" menu or equivalent, or failing that, just manually run "wine kbstudio.exe" from the directory where it's been downloaded.
+Wine is likely to be your default handler for .exe, so you can probably just double-click the installer like on Windows. If not, it should be in your right-click "Open With" menu or equivalent, using the "Run an arbitrary executable" option in the winetricks GUI, or failing all that, just manually run "wine kbstudio.exe" from the directory where it's been downloaded.
 
 .. include:: qs-x-minus.inc
 
