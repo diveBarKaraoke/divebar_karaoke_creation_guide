@@ -16,7 +16,7 @@ Once that's installed, run the following command to install the runtime:
     
        winetricks vb6run
 
-You can alternatively use the winetricks GUI to choose the option to Install a Windows DLL or component and choose vb6run that way.
+You can alternatively use the winetricks GUI to choose the option to "Install a Windows DLL or component" and choose vb6run that way.
 
 As with any wine commands, it can be run in a prefix instead of .wine in your home directory (see `this FAQ entry <https://gitlab.winehq.org/wine/wine/-/wikis/FAQ#can-i-store-the-virtual-windows-installation-somewhere-other-than-wine>`_ for more info)
 
