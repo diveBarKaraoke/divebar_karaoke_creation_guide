@@ -55,7 +55,7 @@ Here's a comparison of these two and some other similar utilities. These are by 
    * - Cost
      - Free
      - Free [#f7]_
-     - $0.00 - $0.30 / track [#f8]_
+     - $0.00 - $0.15 / track [#f8]_
      - Free
      - Free
      - $0.00 - $0.01 / minute [#f9]_
@@ -65,13 +65,13 @@ Here's a comparison of these two and some other similar utilities. These are by 
      - High
      - None
      - High
-     - High
+     - Med
    * - Speed of model updates
      - Med
      - Fast [#f10]_
-     - Med [#f11]_
+     - Fast
      - Slow
-     - Med
+     - Med [#f11]_
      - Fast
    * - Parameter customization
      - Low
@@ -88,11 +88,11 @@ Here's a comparison of these two and some other similar utilities. These are by 
 .. [#f2] This is a ranking of user experience/ease of use, 1 being the easiest. It is of course subjective, but I (Matt M) thought it would helpful to have regardless. Feel free to look into the specifics of each option to better estimate the expected ease of use for you in particular.
 .. [#f3] This is assuming you aren't familiar with running Python or Docker. If you are, this may be much easier.
 .. [#f7] With typical usage. You may need to buy compute units if your usage is substantial.
-.. [#f8] Some functionality is available for free, but it runs at low priority so it may be slow. The fanciest ensemble option they have is premium only and costs 6 "credits" which can be anywhere from $0.017-$0.05 each depending on how many you buy at a time. A basic separation costs only one credit.
+.. [#f8] Some functionality is available for free, but it runs at low priority so it may be slow. The fanciest ensemble option they have is premium only and costs 6 "credits" which can be anywhere from $0.015-$0.025 each depending on how many you buy at a time. A very basic separation costs only one credit.
 .. [#f9] Some functionality is available for free, but a subscription is recommended. Subscriptions provide weekly quotas of minutes of audio processed. The least expensive plan is currently $3.30 per month, which includes 330 minutes of processing per week. When processing an ensemble it counts as double minutes, and demucs 4-stem counts as quadruple, so that's where the max cost per minute is derived.
 .. [#f5] Again, since there are multiple Colabs available, this can vary, but this is the typical case.
 .. [#f10] If you can find a new Colab, which is a challenge in and of itself.
-.. [#f11] They do have a lot of their own models which are obviously the latest version, but they are not always up to date on the MDX/UVR models, which do move fast.
+.. [#f11] This is referring to models available in the Download Center. If you are willing to find and install models manually, you can be more up to date.
 .. [#f6] Colabs typically do not have many included options, but on the other hand, you can edit their code to change parameters if you are capable.
 
 .. toctree::
@@ -106,6 +106,8 @@ Vocal Isolation Models
 ----------------------
 
 Most of the available tools share a lot of separation models. Here's an overview of some of the best ones. This below guide to the relative strengths and weaknesses of each vocal isolation method was written by Peareoke. New models are being added constantly each with its own merits. If you’re not sure which is the most effective currently, just ask and someone will let you know.
+
+For the most up-to-date information on current models, see the Google doc `Instrumental, vocal & other stems separation & mix/master guide - UVR/MDX/Demucs/GSEP & others <https://docs.google.com/document/d/17fjNvJzj8ZGSer7c7OFe_CNfUKbAxEh_OBv94ZdRG5c/edit?usp=sharing>`_ produced by the Audio Separation community (not affiliated with diveBar, but there is certainly some overlap). There's also a link to their Discord near the top of the doc.
 
 Mel-RoFormer and BS-RoFormer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
