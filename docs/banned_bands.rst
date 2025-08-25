@@ -46,6 +46,7 @@ Copyright Strike Possible
 * Ras Sparrow
 * `Some Bizzare Records/Stevo Pearce <https://en.wikipedia.org/wiki/Some_Bizzare_Records>`_ - Includes some albums by Coil, Einstürzende Neubauten, Soft Cell, etc. May strike with 7-day notice
 * Pearl Jam - Apparently sent CC a warning that they were going to issue strikes
+* Fairport Convention - Come All Ye (from the background video)
 
 Strike Log
 ----------
@@ -59,6 +60,10 @@ These are specific instances of strikes received by creators. This will likely b
      - Artist
      - Title
      - Notes
+   * - 2025-05-19
+     - Dio and Yngwie Malmsteen
+     - Dream On
+     - 
    * - 2025-04-26
      - Bryan Adams
      - Summer of 69
