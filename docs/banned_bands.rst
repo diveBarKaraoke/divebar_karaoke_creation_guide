@@ -60,6 +60,10 @@ These are specific instances of strikes received by creators. This will likely b
      - Artist
      - Title
      - Notes
+   * - 2025-09-11
+     - Matt Rogers
+     - I Love to Choke My Chicken With My Hand
+     - 
    * - 2025-05-19
      - Dio and Yngwie Malmsteen
      - Dream On
@@ -231,6 +235,8 @@ Worldwide Blocks
 * Steam Powered Giraffe - many songs as of ~May 2025
 * Panic At the Disco! - Don't Let the Lights Go Out (Oct 2022) - WMG on behalf of Fueled By Ramen/Atlantic
 * CSS (Cansei de Ser Sexy) - Planta album (all songs, Mar 2025)
+* Beyoncé - Blow (Sep 2025)
+* Sam Ryder - SPACE MAN (Sep 2025) - full version blocked, Eurovision edit seems ok
 
 How to Use this Info
 --------------------
