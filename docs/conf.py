@@ -6,9 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import datetime
+
 project = 'diveBar Karaoke Creation Guide'
 html_title = project
-copyright = '2024, diveBar Karaoke Community'
+copyright = f"2024-{datetime.date.today():%Y}, diveBar Karaoke Community"
 author = 'diveBar Karaoke Community'
 
 # -- General configuration ---------------------------------------------------
