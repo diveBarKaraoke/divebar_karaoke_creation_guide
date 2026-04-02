@@ -164,6 +164,11 @@ Main Window
 * Mouse wheel over Play button for volume (no keyboard shortcut seems to be available)
 * :kbd:`Left`/:kbd:`Right`/:kbd:`Home`/:kbd:`End`/:kbd:`Shift-Left`/etc -- Standard text editing controls work in syllable/word fields as well as the field for the audio file
 * :kbd:`Control-Q`/:kbd:`Alt-F4` -- Exit KBS (will prompt to save, exit without saving, or cancel exit operation)
+* A button with a non-editable text box next to it can be activated either by pressing the button or right-clicking on the text box (Line Style, Page Display, Page Removal)
+* In addition to the Line Style button, line style can be updated by right-clicking anywhere in the lyric lines box (post-sync). Note that it still applies to the *selected* line(s), even if you right click on another one. You'd have to left click first to get that one.
+* Multiple consecutive lyric lines can be selected with keyboard or mouse by holding :kbd:`Shift`, e.g. for applying a style or across/down/rotation to multiple lines at once.
+* Non-consecutive lyric lines can be selected with the mouse by holding :kbd:`Control`.
+* :kbd:`Control-Up`/:kbd:`Control-PageUp` and :kbd:`Control-Down`/:kbd:`Control-PageDown` select the first and last line on a page in the lyric line box, or the Sample Text and last page in the page list. In the former case, this can be combined with :kbd:`Shift` functionality to select from the current line to the target.
 
 Tab traversal is a bit odd, but it can still be helpful. Before sync, the traversal order is the following (:kbd:`Tab`/:kbd:`Shift-Tab` to move forward/back):
 
@@ -211,6 +216,8 @@ Note that some functionality in the arrow buttons in the wiping UI can changed b
 
 * :kbd:`Control` -- Adjust by 5 frames instead of 1
 * :kbd:`Alt` -- Toggle sticky borders
+
+If you are adjusting start/end times with mouse dragging, sticky borders can be toggled by holding :kbd:`Alt` or by using the right mouse button instead of the left.
 
 Additionally, click selection behavior can be changed with the following keyboard modifiers:
 
