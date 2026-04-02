@@ -60,6 +60,14 @@ These are specific instances of strikes received by creators. This will likely b
      - Artist
      - Title
      - Notes
+   * - 2026-02-20
+     - DJ Sammy
+     - Heaven
+     - Bryan Adams
+   * - 2025-09-18
+     - Jason Isbell
+     - Super 8
+     - 
    * - 2025-09-11
      - Matt Rogers
      - I Love to Choke My Chicken With My Hand
