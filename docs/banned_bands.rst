@@ -10,43 +10,43 @@ Copyright Strike Possible
 
 * AC/DC
 * Anohni / Antony and the Johnsons
+* Arno Elias - El Corazon
 * Bryan Adams (confirmed by RVZN 03-2023) Web Sheriff (not at time of posting but maybe months later. Letter sent to WS without response.)
+* CHROMATICS
 * Coldplay - May not be an issue anymore
+* Dream Theater - **Needs confirmation on which songs** - Many are currently online, apparently with no issue
 * Eagles - Possibly not as risky as they used to be, but still issuing some strikes as of Jan 2025
 * Ed Sheeran
+* ELP - Still You Turn Me On
+* Fairport Convention - Come All Ye (from the background video)
+* Garth Brooks - Not clear how often, it's known that keepthebestalive got one once
 * Guns n’ Roses
-* Dream Theater - **Needs confirmation on which songs** - Many are currently online, apparently with no issue
 * Humanity's Last Breath - Apparently a channel was taken down for posting instrumentals from their latest album
-* Unique Leader Records (Sony Canada)
+* J\. D.  Souther
 * Jimi Hendrix (became available in 11-2022, confirmed RVZN/Nomad)
+* kavinsky
+* Lindsey Buckingham
 * MIKA
 * Monaco
 * Olly Murs
+* otoboke beaver
 * Ozzy Osbourne
+* Pearl Jam - Apparently sent CC a warning that they were going to issue strikes
+* PRO8L3M - Agora/RWH Records
+* Ras Sparrow
 * Richard Cheese - Not actively watched, but enforced swiftly when pointed out to his team
 * Ride the Cyclone (musical, Brooke Maxwell and Jacob Richmond) - Strike issued by WMG for Uranium Suite 8/2024
 * Robbie Williams
+* Slipknot - The End. So Far (2022)
+* `Some Bizzare Records/Stevo Pearce <https://en.wikipedia.org/wiki/Some_Bizzare_Records>`_ - Includes some albums by Coil, Einstürzende Neubauten, Soft Cell, etc. May strike with 7-day notice
 * Supertramp				   (Evergreen Social Media Associates)
 * Take That (I wonder if they say the band’s name when they issue the strikes? Probably so…)
 * Tool									     (Rico Management)
+* Tyler the Creator: all songs will receive a copyright strike
+* Unique Leader Records (Sony Canada)
+* Yoshiki, HYDE - Red Swan
 * Your Favorite Martian: copyright takedown issued w/ 7 days to remove before strike given
 * Zero 7								        (NewStateEntLtd)
-* Tyler the Creator: all songs will receive a copyright strike
-* CHROMATICS
-* kavinsky
-* Lindsey Buckingham
-* otoboke beaver
-* Slipknot - The End. So Far (2022)
-* Yoshiki, HYDE - Red Swan
-* Arno Elias - El Corazon
-* Garth Brooks - Not clear how often, it's known that keepthebestalive got one once
-* ELP - Still You Turn Me On
-* J\. D.  Souther
-* PRO8L3M - Agora/RWH Records
-* Ras Sparrow
-* `Some Bizzare Records/Stevo Pearce <https://en.wikipedia.org/wiki/Some_Bizzare_Records>`_ - Includes some albums by Coil, Einstürzende Neubauten, Soft Cell, etc. May strike with 7-day notice
-* Pearl Jam - Apparently sent CC a warning that they were going to issue strikes
-* Fairport Convention - Come All Ye (from the background video)
 
 Strike Log
 ----------
@@ -198,53 +198,53 @@ These are specific instances of strikes received by creators. This will likely b
      - 
 
 ..
-   # Last added Tool - The Pot 2025-05-10 18:15 UTC
+   # Last added 2026-02-20 - DJ Sammy - Heaven
 
 Worldwide Blocks
 ----------------
 
-* Linda Ronstadt
+* AC/DC - Gone Shootin'
+* AC/DC - It's a Long Way to the Top
+* AC/DC - Mistress For Christmas
+* The Beatles - Some of these aren't blocked anymore, but many still are, so definitely do a test upload before creating the whole karaoke track
+* Beyoncé - Blow (Sep 2025)
+* Bill Withers - Ain’t No Sunshine
 * Bob Dylan - Some tracks may be blocked, but many seem ok
-* Michelle Shocked (while she doesn’t strike, claim, or block, it’s still for the best to avoid her.)
+* CSS (Cansei de Ser Sexy) - Planta album (all songs, Mar 2025)
 * The Damned - Neat Neat Neat seemingly specifically for some reason except Japan
-* King Crimson - “Starless (Abridged)” (confirmed RVZN 05-2023)
-* King Crimson - Moonchild
-* Prince (much of the world but still allowed on YouTube)
+* De La Soul - Reservoir Media Management - Sometimes block/unblock content
+* Devildriver - Wishing
+* Don Henley - Nobody’s Business
+* Fever Ray - Keep the Streets Empty for Me
 * The Fratellis (Confirmed AVD 01-2024 for song I Guess… I Suppose… on YouTube)
+* IAMX - You Can Be Happy (WMG, 8/2024)
+* John Lennon - Mother - RVZN got a block that doesn't show up in Studio and doesn't list the label/artist. He tried a reupload and got the same result
+* Judee Sill - Jesus Was a Crossmaker US only
+* King Crimson - Moonchild
+* King Crimson - “Starless (Abridged)” (confirmed RVZN 05-2023)
+* Linda Rondstadt - You're No Good
+* Linda Ronstadt
+* Michelle Shocked (while she doesn’t strike, claim, or block, it’s still for the best to avoid her.)
+* Muse - Mercy
+* Muse - The Handler
 * Métisse - Boom Boom Bâ
 * Nick Cave - Many tracks blocked
-* Fever Ray - Keep the Streets Empty for Me
-* IAMX - You Can Be Happy (WMG, 8/2024)
-* Judee Sill - Jesus Was a Crossmaker US only
-* Linda Rondstadt - You're No Good
-* Rivers Cuomo - Blast Off!
-* Shelley Fabares - Johnny Angel
 * The Orwells - Who Needs You
-* The Stoney Poneys - A Different Drum
-* The White Stripes - Apple Blossom
-* Devildriver - Wishing
-* AC/DC - It's a Long Way to the Top
-* Muse - The Handler
-* Muse - Mercy
-* AC/DC - Mistress For Christmas
-* AC/DC - Gone Shootin'
-* Ozzy Osborne - Let It Die
 * Ozzy Osborne - Lay Your World On Me
+* Ozzy Osborne - Let It Die
 * Ozzy Osborne - Not Going Away
-* Bill Withers - Ain’t No Sunshine
-* Don Henley - Nobody’s Business
-* The Beatles - Some of these aren't blocked anymore, but many still are, so definitely do a test upload before creating the whole karaoke track
-* John Lennon - Mother - RVZN got a block that doesn't show up in Studio and doesn't list the label/artist. He tried a reupload and got the same result
+* Panic At the Disco! - Don't Let the Lights Go Out (Oct 2022) - WMG on behalf of Fueled By Ramen/Atlantic
+* The Pogues - Transmetropolitan
+* Prince (much of the world but still allowed on YouTube)
 * PRO8L3M - Noc
 * Quebonafide - Romantic Psycho
-* Smashing Pumpkins - Seem to arbitrarily block and unblock content over time
-* De La Soul - Reservoir Media Management - Sometimes block/unblock content
-* The Pogues - Transmetropolitan
-* Steam Powered Giraffe - many songs as of ~May 2025
-* Panic At the Disco! - Don't Let the Lights Go Out (Oct 2022) - WMG on behalf of Fueled By Ramen/Atlantic
-* CSS (Cansei de Ser Sexy) - Planta album (all songs, Mar 2025)
-* Beyoncé - Blow (Sep 2025)
+* Rivers Cuomo - Blast Off!
 * Sam Ryder - SPACE MAN (Sep 2025) - full version blocked, Eurovision edit seems ok
+* Shelley Fabares - Johnny Angel
+* Smashing Pumpkins - Seem to arbitrarily block and unblock content over time
+* Steam Powered Giraffe - many songs as of ~May 2025
+* The Stoney Poneys - A Different Drum
+* The White Stripes - Apple Blossom
 
 How to Use this Info
 --------------------

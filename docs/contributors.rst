@@ -5,6 +5,7 @@ Several people have added content to this site, the doc from which it originated
 
 * Acorlei (Lone Wolf Karaoke)
 * aghastronaut (Karaoke from Space)
+* Bret (Fatbird)
 * carpy
 * d3arest (Karaoketuottaja)
 * Griff (Quasar Karaoke)
