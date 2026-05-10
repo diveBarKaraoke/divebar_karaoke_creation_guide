@@ -70,6 +70,10 @@ These are specific instances of strikes received by creators. This will likely b
      - Joyce Sims
      - All and All
      - Phase One Network
+   * - 2026-05-01
+     - Mitch Tambo
+     - You're The Voice (Gamilaraay)
+     - SME
    * - 2026-04-28
      - Frank Ocean
      - Nature Feels
