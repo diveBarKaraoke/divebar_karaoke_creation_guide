@@ -13,6 +13,7 @@ Several people have added content to this site, the doc from which it originated
 * Lopenash
 * Matt M (It Might Be Karaoke)
 * Peareoke
+* Protected (Upstream Karaoke)
 * Rosé (Rose's Garden Variety Karaoke)
 * THE RankAmateur FeelgoodMachine
 * TooBreezy (Breezys Studio Karaoke)
