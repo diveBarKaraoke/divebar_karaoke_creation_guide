@@ -32,6 +32,7 @@ Copyright Strike Possible
 * otoboke beaver
 * Ozzy Osbourne
 * Pearl Jam - Apparently sent CC a warning that they were going to issue strikes
+* Phase One Network - multiple artists here seem to be issuing strikes. See :doc:`potential list of artists <phase_one>`
 * PRO8L3M - Agora/RWH Records
 * Ras Sparrow
 * Richard Cheese - Not actively watched, but enforced swiftly when pointed out to his team
@@ -48,6 +49,11 @@ Copyright Strike Possible
 * Your Favorite Martian: copyright takedown issued w/ 7 days to remove before strike given
 * Zero 7								        (NewStateEntLtd)
 
+.. toctree::
+   :hidden:
+
+   phase_one
+
 Strike Log
 ----------
 
@@ -60,6 +66,18 @@ These are specific instances of strikes received by creators. This will likely b
      - Artist
      - Title
      - Notes
+   * - 2026-05-06
+     - Joyce Sims
+     - All and All
+     - Phase One Network
+   * - 2026-04-28
+     - Frank Ocean
+     - Nature Feels
+     -
+   * - 2026-02-01
+     - Nocera
+     - Summertime, Summertime
+     - Phase One Network
    * - 2026-02-20
      - DJ Sammy
      - Heaven
