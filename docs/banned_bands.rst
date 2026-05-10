@@ -74,7 +74,7 @@ These are specific instances of strikes received by creators. This will likely b
      - Frank Ocean
      - Nature Feels
      -
-   * - 2026-02-01
+   * - 2026-02-10
      - Nocera
      - Summertime, Summertime
      - Phase One Network
